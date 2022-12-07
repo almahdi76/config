@@ -1,0 +1,9 @@
+server:
+  port: 9983
+spring:
+  cloud:
+    discovery:
+      enabled: true
+      
+  application:
+    name: facturation-service
